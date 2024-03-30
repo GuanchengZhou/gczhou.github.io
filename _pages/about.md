@@ -17,6 +17,7 @@ I am a third year undergraduate student from [School of Mathematics and Statisti
 * Machine Learning
 * Computer Vision
 * Generative Model
+  
 I mainly focus on Computer Vision, and have tried diverse domains within this fields: I tried to relieve catastrophic forgetting by utilizing contrastive learning methods, and I tried to improve the perception ability of unmaned surface vessels(USVs).
 
 ## Publications
